@@ -747,6 +747,11 @@ video {
   width: 85%;
 }
 
+.w-fit {
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
 .w-full {
   width: 100%;
 }
@@ -1490,6 +1495,15 @@ video {
 
   .sm\:gap-32 {
     gap: 8rem;
+  }
+
+  .sm\:gap-40 {
+    gap: 10rem;
+  }
+
+  .sm\:gap-x-5 {
+    -moz-column-gap: 1.25rem;
+         column-gap: 1.25rem;
   }
 
   .sm\:space-y-0 > :not([hidden]) ~ :not([hidden]) {
