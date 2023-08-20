@@ -602,6 +602,10 @@ video {
   top: 3.5rem;
 }
 
+.top-20 {
+  top: 5rem;
+}
+
 .z-50 {
   z-index: 50;
 }
@@ -766,6 +770,10 @@ video {
 
 .w-16 {
   width: 4rem;
+}
+
+.w-12 {
+  width: 3rem;
 }
 
 .max-w-3xl {
