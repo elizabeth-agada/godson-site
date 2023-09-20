@@ -1264,16 +1264,6 @@ video {
   padding-bottom: 1.25rem;
 }
 
-.py-56 {
-  padding-top: 14rem;
-  padding-bottom: 14rem;
-}
-
-.py-8 {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-}
-
 .pb-2 {
   padding-bottom: 0.5rem;
 }
@@ -1484,6 +1474,10 @@ video {
     display: none;
   }
 
+  .sm\:w-0 {
+    width: 0px;
+  }
+
   .sm\:w-2\/3 {
     width: 66.666667%;
   }
@@ -1507,10 +1501,6 @@ video {
 
   .sm\:w-full {
     width: 100%;
-  }
-
-  .sm\:w-0 {
-    width: 0px;
   }
 
   .sm\:max-w-7xl {
@@ -1676,11 +1666,6 @@ video {
   .sm\:py-64 {
     padding-top: 16rem;
     padding-bottom: 16rem;
-  }
-
-  .sm\:py-56 {
-    padding-top: 14rem;
-    padding-bottom: 14rem;
   }
 
   .sm\:pb-0 {
