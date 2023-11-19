@@ -723,26 +723,6 @@ video {
   width: 100%;
 }
 
-.w-56 {
-  width: 14rem;
-}
-
-.w-96 {
-  width: 24rem;
-}
-
-.w-8 {
-  width: 2rem;
-}
-
-.w-8\/12 {
-  width: 66.666667%;
-}
-
-.w-2\/3 {
-  width: 66.666667%;
-}
-
 .max-w-6xl {
   max-width: 72rem;
 }
