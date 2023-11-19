@@ -756,6 +756,10 @@ video {
   width: 3.5rem;
 }
 
+.w-10 {
+  width: 2.5rem;
+}
+
 .max-w-6xl {
   max-width: 72rem;
 }
@@ -1253,6 +1257,16 @@ video {
   padding-bottom: 8rem;
 }
 
+.px-10 {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+
+.px-6 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
 .pb-10 {
   padding-bottom: 2.5rem;
 }
@@ -1471,6 +1485,10 @@ video {
     display: none;
   }
 
+  .sm\:h-20 {
+    height: 5rem;
+  }
+
   .sm\:w-0 {
     width: 0px;
   }
@@ -1506,6 +1524,10 @@ video {
 
   .sm\:max-w-lg {
     max-width: 32rem;
+  }
+
+  .sm\:max-w-6xl {
+    max-width: 72rem;
   }
 
   .sm\:grid-cols-12 {
@@ -1601,6 +1623,10 @@ video {
     padding: 5rem;
   }
 
+  .sm\:p-4 {
+    padding: 1rem;
+  }
+
   .sm\:px-0 {
     padding-left: 0px;
     padding-right: 0px;
@@ -1644,6 +1670,11 @@ video {
   .sm\:px-2 {
     padding-left: 0.5rem;
     padding-right: 0.5rem;
+  }
+
+  .sm\:px-32 {
+    padding-left: 8rem;
+    padding-right: 8rem;
   }
 
   .sm\:text-2xl {
