@@ -742,6 +742,10 @@ video {
   margin-top: 8rem;
 }
 
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
 .block {
   display: block;
 }
